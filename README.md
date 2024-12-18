@@ -1,0 +1,3 @@
+# Off-by-One Error in Java Array Iteration
+
+This repository demonstrates a common off-by-one error in Java when iterating over arrays. The `BuggyArray.java` file contains code that attempts to access an array element beyond its bounds, leading to an `ArrayIndexOutOfBoundsException`. The `CorrectedArray.java` file provides the corrected version.  This is a classic example of a subtle but easily avoidable bug.
